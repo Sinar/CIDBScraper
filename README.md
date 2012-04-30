@@ -11,6 +11,7 @@ Files
 * scrape.py : to download the html, save to output/
 * extractor.py : generate an python object with data from html 
 * extract_engine.py : library to process the html
+* insert_to_gdoc.py : insert into google docs using gdata library
 
 Requirement 
 * Requests
